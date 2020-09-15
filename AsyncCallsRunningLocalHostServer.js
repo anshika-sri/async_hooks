@@ -79,7 +79,7 @@ function init(asyncId, type, triggerId) {
       "triggerId": 5
   }
 
-  //below are also async events when refresh localhost:8080
+  //below are also async events when refresh localhost:8079
 
   #info: {
       "type": "TCPWRAP",
